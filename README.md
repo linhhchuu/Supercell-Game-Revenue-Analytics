@@ -24,7 +24,7 @@ The datasets contain 3 tables:
 |  created_app_store_id |                      |	                  |    
 
 ## Part 1: Product Engagement and Revenue Dashboard on Tableau
-## Key Features
+### Key Features
 
 - **Year-to-date performance overview:** A summary of overall performance and monthly trends of key metrics
     - Monthly charts capturing trends of metrics on engagement, revenue, retention & LTV

@@ -16,7 +16,7 @@ The datasets contain 3 tables:
 
 |               account |         iap_purchase | account_date_session |
 |----------------------:|---------------------:|---------------------:|
-|            account_id |	        account_id |	       account_id |
+|            account_id |           account_id |	       account_id |
 |          created_time |	              date |         created_time |
 |        created_device |	     session_count |      package_id_hash |
 |      created_platform | session_duration_sec |  iap_price_usd_cents |

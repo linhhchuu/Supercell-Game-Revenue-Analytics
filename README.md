@@ -49,3 +49,5 @@ The datasets contain 3 tables:
 
 - **Performance by Market:** Overview game performance by market
 ![Performance by Market](https://github.com/user-attachments/assets/e25ee3da-c864-4858-bfe3-92691d8a2253)
+
+## Part 2: Player LTV Prediction (work-in-progress)

@@ -14,14 +14,14 @@ The datasets contain 3 tables:
 2. account_date_session
 3. iap_purchase
 
-| account | iap_purchase | account_date_session |
-|-----:|---------------:|--:|
-| account_id |	account_id |	account_id |
-| created_time |	date	| created_time |
-| created_device |	session_count |	package_id_hash |
-| created_platform |	session_duration_sec |	iap_price_usd_cents |
-| country_code |	|	app_store_id | 
-| created_app_store_id	| |	
+|               account |         iap_purchase | account_date_session |
+|----------------------:|---------------------:|---------------------:|
+|            account_id |	        account_id |	       account_id |
+|          created_time |	              date |         created_time |
+|        created_device |	     session_count |      package_id_hash |
+|      created_platform | session_duration_sec |  iap_price_usd_cents |
+|          country_code |	                   |	     app_store_id | 
+|  created_app_store_id |                      |	                  |    
 
 ## Part 1: Product Engagement and Revenue Dashboard on Tableau
 ## Key Features
